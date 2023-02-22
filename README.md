@@ -1,2 +1,5 @@
-# qr-code
-just for fun
+# just for fun 
+
+
+### basic react project
+
